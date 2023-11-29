@@ -1,0 +1,50 @@
+button {
+    background-color: rgb(21, 190, 209);
+    box-shadow: none;
+    color: azure;
+    outline: none;
+    border: 2px solid transparent;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 10px;
+}
+
+input {
+    width: 200px;
+    height: 20px;
+    border-radius: 7px;
+}
+
+.tegs {
+    width: 296px;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    border-radius: 5px;
+    background-color: aqua;
+    box-shadow: 2px 2px 2px black;
+    margin: 6px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+.pole {
+    color: brown;
+}
+
+.text {
+    width: auto;
+    height: auto;
+}
+
+.button {
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-size: 10px;
+}
